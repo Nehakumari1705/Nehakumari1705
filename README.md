@@ -1,7 +1,9 @@
 [![MasterHead](https://wallpaperaccess.com/full/3959399.jpg)]
 <h1 align="center">Hi 👋, I'm Neha kumari</h1>
 <h3 align="center">A passionate data analyst enthusiast from India</h3>
-(img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...")
+
+add Right Gif Image
+(img align="right" alt="Coding" width="400", src="https://miro.medium.com/v2/resize:fit:1400/1*g__jiesLRIfCRefVG69Pfw.gif")
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nehakumari1705&label=Profile%20views&color=0e75b6&style=flat" alt="nehakumari1705" /> </p>
 
